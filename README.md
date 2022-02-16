@@ -6,7 +6,6 @@ It is a web browser Automation project where we perform different tasks based on
     1.1 From the list of instagram handles you obtained when you searched ‘food’ in previous project. Open the first 10 handles and find the top 5 which have the highest number of followers
     
     1.2 Now Find the number of posts these handles have done in the previous 3 days.
-    2.
     (Depict this information using a suitable graph.)
 
 

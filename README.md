@@ -1,7 +1,7 @@
 # InstaBot-Project-II
 It is a web browser Automation project where we perform different tasks based on the given Problem Statements to retrieve data using SELENIUM which is an open-source tool that automates web browsers.
 
-1) One of our friend has followed a lot of different food bloggers, he needs to analyse the habits of these bloggers.
+**1)** One of our friend has followed a lot of different food bloggers, he needs to analyse the habits of these bloggers.
 
     1.1 From the list of instagram handles you obtained when you searched ‘food’ in previous project. Open the first 10 handles and find the top 5 which have the highest number of followers
     
@@ -10,7 +10,7 @@ It is a web browser Automation project where we perform different tasks based on
     (Depict this information using a suitable graph.)
 
 
-2) Our friend also needs a list of hashtags that he should use in his posts.
+**2)** Our friend also needs a list of hashtags that he should use in his posts.
     
     2.1 Open the 5 handles you obtained in the last question, and scrape the content of the first 10 posts of each handle.
     
@@ -23,7 +23,7 @@ It is a web browser Automation project where we perform different tasks based on
     2.5 Plot a Pie Chart of the top 5 hashtags obtained and the number of times they were used by these bloggers in the scraped posts.
 
 
-3) You need to also calculate average followers : likes ratio for the obtained handles.Followers : Likes ratio is calculated as follows:
+**3)** You need to also calculate average followers : likes ratio for the obtained handles.Followers : Likes ratio is calculated as follows:
     
     3.1 Find out the likes of the top 10 posts of the 5 handles obtained earlier.
     

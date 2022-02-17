@@ -1,5 +1,5 @@
 # InstaBot-Project-II
-It is a web browser Automation project where we perform different tasks based on the given Problem Statements to retrieve data using SELENIUM which is an open-source tool that automates web browsers.
+It is PART II of a web browser Automation project where we perform different tasks based on the given Problem Statements to retrieve data using SELENIUM which is an open-source tool that automates web browsers.
 
 **1)** One of our friend has followed a lot of different food bloggers, he needs to analyse the habits of these bloggers.
 

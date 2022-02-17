@@ -31,3 +31,11 @@ It is PART II of a web browser Automation project where we perform different tas
     3.3 Divide the average likes obtained from the number of followers of the handle to get the average followers:like ratio of each handle.
     
     3.4 Create a bar graph to depict the above obtained information.
+    
+    
+    
+    
+    
+
+First time users can refer the below link for documentation for Selenium.
+Link  https://selenium-python.readthedocs.io/
